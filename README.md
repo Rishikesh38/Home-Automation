@@ -6,4 +6,6 @@
 - Incorporated a security mode, enabling the Red LED to blink as an alert whenever someone attempts to enter the area.
 - Provided user-configurable options, allowing users to set high and low-level intensity, maximum distance, and timeout settings.
 - Utilized the STM32F407G DISC1 Board for the operation, employing a TTL 232R cable for serial UART communication, enabling easy user control and parameter adjustments.
-  NOTE : Refer the pdf named "home automation" for more details.
+ 
+
+ NOTE : Refer the pdf named "home automation" for more details.
